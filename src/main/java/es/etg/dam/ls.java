@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 
-public class Main {
+public class ls {
 
     private static final String[] COMANDO = {"ls"};
     private static final String[] COMANDO1 = {"grep","-i", "a"};
