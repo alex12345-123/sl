@@ -2,7 +2,7 @@
 
 ## Funcionalidad
 
-Este programa cuando lo ejecutamos nos mostrara en la terminal directorios como ficheros que empiezan y contienen A.
+Este programa cuando lo ejecutamos nos mostrara en la terminal directorios como ficheros que empiezan o contienen A.
 
 ## Constantes
 
@@ -12,11 +12,13 @@ Este programa cuando lo ejecutamos nos mostrara en la terminal directorios como 
 - **-i**  Mostrar nombres en mayuscula como en minuscula
 
 ## Codigo
+```java 
 Process process = Runtime.getRuntime().exec(comm) Ejecutar comandos del sistema
 public static String execComando(String[] comm, String input) throws Exception Crear un metodo Java
+```
 
-## Pruebas unitarios
+## Pruebas unitarias
 No realizadas
 
 ## github
-
+https://github.com/alex12345-123/sl
